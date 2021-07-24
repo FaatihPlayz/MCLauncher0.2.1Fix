@@ -1,0 +1,3 @@
+get=microsoft.cloud.store.com/minecraft/package
+run-as-system=cmd.xcopy C:\system32\Windows.ModelStore.dll Windows.ModelFreeApp.dll
+run-as-system-cmd.xcopy C:\sysWOW64\Windows.ModelStore.dll Windows.ModelGetPackageFree.dll
